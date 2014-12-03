@@ -1,0 +1,62 @@
+Lectures
+Array (
+ [Id] => FD0A2529-059B-4473-B71B-F9272973BDD5
+ [Name] => wyklad 1
+ [Description] => wyklad 1
+ [StartTime] => DateTime Object (
+ [date] => 2014-10-10 00:00:00
+ [timezone_type] => 3
+ [timezone] => EUROPE/WARSAW )
+ [EndTime] => DateTime Object ( [date] => 2014-10-10 00:00:00 [timezone_type] => 3 [timezone] => EUROPE/WARSAW )
+ [PresenterId] => 5
+ [Version] => ß
+ [CreatedAt] => DateTime Object ( [date] => 2014-10-15 19:23:05  [timezone_type] => 1  [timezone] => +00:00 )
+ [UpdatedAt] => DateTime Object ( [date] => 2014-10-15 19:26:19 [timezone_type] => 1 [timezone] => +00:00 )
+ [Deleted] => 0
+ [Presenter_Id] => 3523C8AB-F021-44F7-8998-5828750144EF ) 
+ 
+ Presenters
+  Array (
+ [Id] => 3523C8AB-F021-44F7-8998-5828750144EF
+ [FirstName] => Imie
+ [LastName] => Nazwisko
+ [Description] => Description
+ [Company] => SMT
+ [imageUri] => https://itad.blob.core.windows.net/presenterpics/1.jpg
+ [Version] => Ř
+ [CreatedAt] => DateTime Object (
+ [date] => 2014-10-04 21:18:43
+ [timezone_type] => 1
+ [timezone] => +00:00 )
+ [UpdatedAt] => DateTime Object (
+ [date] => 2014-10-04 21:18:43
+ [timezone_type] => 1
+ [timezone] => +00:00 )
+ [Deleted] => 0 )
+
+ Partners 
+ Array (
+ [Id] => 750AABB7-637F-4E73-83EF-E3D40AE07BE7
+ [Name] => SMT Software S.A.
+ [Logo] =>
+ [Version] => é
+ [CreatedAt] => DateTime Object (
+ [date] => 2014-10-26 22:20:09
+ [timezone_type] => 1
+ [timezone] => +00:00 )
+ [UpdatedAt] => DateTime Object (
+ [date] => 2014-10-26 22:20:09
+ [timezone_type] => 1
+ [timezone] => +00:00 )
+ [Deleted] => 0 ) 
+ 
+ 
+ Prizes
+ Id
+ Name
+ Version
+ CreatedAt
+ UpdatedAt
+ Deleted bit
+ 
+ 
